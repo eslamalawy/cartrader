@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Toyota Mirai",
+        "make": "Toyota",
+        "model": "Mirai",
+        "price": "50,000",
+        "year": 2017,
+        "city": "Los Angelos",
+        "url": "https://www.cnet.com/a/img/resize/eac004b37b182b088ada4800c676330ff88b9308/hub/2020/12/15/bccdf7a4-1401-4cf6-b11b-eada47ca36ea/ogi1-2021-toyota-mirai-017.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "seats": 5,
+        "miles": "5000",
+        "features": "No Accidents, Low KM, Vehicle Detailed, Leather Interior",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam!"
+      },
+      {
+        "id": 2,
+        "name": "Maserati Levante",
+        "make": "Maserati",
+        "model": "Levante",
+        "price": "125,000",
+        "year": 2015,
+        "city": "Toronto",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/2018_Maserati_Levante_S_Automatic_3.0.jpg/560px-2018_Maserati_Levante_S_Automatic_3.0.jpg",
+        "seats": 5,
+        "miles": "53,666",
+        "features": "No Accidents, Low KM, Vehicle Detailed, Leather Interior",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odio et laboriosam! Numquam ut rem, blanditiis est rerum tenetur maxime delectus"
+      }
+]
