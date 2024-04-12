@@ -40,3 +40,8 @@ npm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+Authors 
+[eslam alawy](https://github.com/eslamalawy)  
+[koot magdy](https://github.com/kootmagdy)
